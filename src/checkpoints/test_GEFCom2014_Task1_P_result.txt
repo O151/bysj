@@ -1,0 +1,5 @@
+horizon = 4 64 -> 4
+TCN_GEFCom2014_Task1_P_0131030321.pth  origin location£ºljx windows pc
+copied to 22
+MSE: 6.9497594
+U: 0.001697783
